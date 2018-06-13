@@ -98,3 +98,7 @@ ul{
 #register{
   color: #ccc; /*No funciona en browser*/
 }
+
+@keyframes bounce{
+  
+}
